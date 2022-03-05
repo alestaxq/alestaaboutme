@@ -5,32 +5,28 @@
 <a href="https://discord.com/users/918903891553320990"><img alt="Discord" src="https://img.shields.io/badge/@alesta-2f3236?style=flat&logo=discord&logoColor=blue" /></a> &nbsp;
 <a href="https://instagram.com/alestaxq"><img src="https://img.shields.io/badge/@alesta-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/918903891553320990)](https://discord.com/users/918903891553320990)
-[![Discord Presence](https://lanyard.cnrad.dev/api/918903891553320990)](https://discord.com/users/918903891553320990)
+[![Discord Presence](https://lanyard.cnrad.dev/api/852667869782343691)](https://discord.com/users/918903891553320990)
+[![Discord Presence](https://lanyard.cnrad.dev/api/852667869782343691)](https://discord.com/users/918903891553320990)
+[![Discord Presence](https://lanyard.cnrad.dev/api/744229839137144925)](https://discord.com/users/744229839137144925)
+[![Discord Presence](https://lanyard.cnrad.dev/api/852667869782343691)](https://discord.com/users/852667869782343691)
 
 ```js
-class alesta{
+1843 alesta{
   constructor(options) {
     this.name = "alesta",
-    this.surname = "Unsterblich",
-    this.hometown = "Norway",
     this.birthday = "21",
     this.birthmonth = "December",
     this.birthyear = "2004",
     this.age = "14",
     this.height = "1.77",
     this.weight = "70",
-    this.type = "human",
     this.job = "programmer",
-    this.sex = "male"
   }
 }
 ```
 
   # My Code Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
