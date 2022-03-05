@@ -5,11 +5,6 @@
 <a href="https://discord.com/users/918903891553320990"><img alt="Discord" src="https://img.shields.io/badge/@alesta-2f3236?style=flat&logo=discord&logoColor=blue" /></a> &nbsp;
 <a href="https://instagram.com/alestaxq"><img src="https://img.shields.io/badge/@alesta-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/852667869782343691)](https://discord.com/users/918903891553320990)
-[![Discord Presence](https://lanyard.cnrad.dev/api/852667869782343691)](https://discord.com/users/918903891553320990)
-[![Discord Presence](https://lanyard.cnrad.dev/api/744229839137144925)](https://discord.com/users/744229839137144925)
-[![Discord Presence](https://lanyard.cnrad.dev/api/852667869782343691)](https://discord.com/users/852667869782343691)
-
 ```js
 1843 alesta{
   constructor(options) {
